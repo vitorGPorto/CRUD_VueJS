@@ -23,6 +23,6 @@ npm run lint
 ```
 Para utlizar esse projeto, você terá que clonar o projeto Backend_NodeJs_API
 ```
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Interface
+
 ![image](https://user-images.githubusercontent.com/79535209/126873968-6768015a-dd45-4971-a4f6-85cd37258063.png)
